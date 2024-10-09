@@ -1,7 +1,7 @@
 # Meu primeiro modelo usando Machine Learning 
 
-• Esse é meu primeiro modelo usando machine learning supervisionada com abordagem de regressão linear.
-• O objetivo desse modelo é predizer o salário de pessoas não brancas (pretas, pardas, indígenas, etc) na área de TI. 
+• Esse é meu primeiro modelo usando machine learning supervisionada com abordagem de regressão linear. <br/>
+• O objetivo desse modelo é predizer o salário de pessoas não brancas (pretas, pardas, indígenas, etc) na área de TI. <br/>
 • Os dados utilizados para criar, treinar e testar o modelo foram obtidos da escola digital [PrograMaria](https://www.programaria.org/)<br/>
 
 ### Clique aqui para conhecer esse projeto: 
